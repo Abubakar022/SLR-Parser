@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SLR-Parser/static/css/main.b040c346.css",
+    "main.js": "/SLR-Parser/static/js/main.3529132f.js",
+    "static/js/453.7eabeb1a.chunk.js": "/SLR-Parser/static/js/453.7eabeb1a.chunk.js",
+    "index.html": "/SLR-Parser/index.html",
+    "main.b040c346.css.map": "/SLR-Parser/static/css/main.b040c346.css.map",
+    "main.3529132f.js.map": "/SLR-Parser/static/js/main.3529132f.js.map",
+    "453.7eabeb1a.chunk.js.map": "/SLR-Parser/static/js/453.7eabeb1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b040c346.css",
+    "static/js/main.3529132f.js"
+  ]
+}
